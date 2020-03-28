@@ -26,6 +26,8 @@ public class Testgit {
         System.out.println("同步git服务器！！！01");
         System.out.println("同步git服务器！！！02");
         System.out.println("同步git服务器！！！03");
+        System.out.println("remote to local");
+        
     }
 
 }
