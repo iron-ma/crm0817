@@ -23,6 +23,7 @@ public class Testgit {
         
         
         System.out.println("同步git服务器！！！");
+        System.out.println("同步git服务器！！！01");
         
 
     }
