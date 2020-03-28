@@ -28,6 +28,7 @@ public class Testgit {
         System.out.println("同步git服务器！！！03");
         System.out.println("local 》》》 remote");
         System.out.println("remote to local");
+        System.out.println("测试--version");
         
     }
 
