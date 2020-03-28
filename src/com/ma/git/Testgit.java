@@ -29,6 +29,7 @@ public class Testgit {
         System.out.println("local 》》》 remote");
         System.out.println("remote to local");
         System.out.println("测试--version");
+        System.out.println("test host enable");
         
     }
 
